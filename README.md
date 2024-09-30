@@ -15,7 +15,8 @@ I'm currently working on supporting the Snapdragon X Elite laptop: Lenovo Yoga S
 - cytryna: A library to handle file formats used by Nintendo 3DS
 
 ### Experimental software or demos:
-- peroxide: A bootloader on top of Linux kernel that can run both Linux and Windows
-- ozone: A Rust library to write programs that run on top of Linux kernel but act as EFI executables
+- peroxide: A bootloader on top of Linux kernel that can run both Linux and Windows, https://www.youtube.com/watch?v=wNYoCT-w6tg, https://www.youtube.com/watch?v=bsNtPFKXtfU,
+- ozone: A Rust library to write programs that run on top of Linux kernel but act as EFI executables, which peroxide uses
+- sgui2: A UI library that aimed to both be as light as possible, look well and support using gamepad or touchscreen input, similar to PS Vita. https://www.youtube.com/watch?v=t8WmxmHEpfo
 
 I'm open to job offers at <maya.matuszczyk@gmail.com>
