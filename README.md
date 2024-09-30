@@ -11,7 +11,7 @@ I'm currently working on supporting the Snapdragon X Elite laptop: Lenovo Yoga S
 - Cadmium: A Linux installer for ARM laptops, with plans to support RISC-V laptops as well
 - dtemu: A project about writing emulator software for retro CPUs in Rust, with `asane` being the main CPU emulation library
 - apmtools: A Rust library and CLI program to read, write and modify Apple Macintosh partition table
-- ayaled: A Rust daemon made by reverse engineering a Windows app, that controls LEDs on AYANEO gaming handhelds
+- ayaled: A Rust daemon made by reverse engineering a Windows app, that controls LEDs on AYANEO gaming handhelds, https://www.youtube.com/watch?v=QPW4nE8ki1o
 - cytryna: A library to handle file formats used by Nintendo 3DS
 
 ### Experimental software or demos:
